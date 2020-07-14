@@ -7,4 +7,3 @@ if ( time_now %2 )
   puts "Odd!"
   end
 
-}
