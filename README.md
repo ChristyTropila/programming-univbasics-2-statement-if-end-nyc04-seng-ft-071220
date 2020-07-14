@@ -5,5 +5,5 @@ if(time_now %2){
   else
   puts "Odd!"
   end
-  
+
 }
